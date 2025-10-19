@@ -14,7 +14,7 @@ CIRCUIT DIAGRAM
 <img width="1103" height="646" alt="Screenshot 2025-10-11 195345" src="https://github.com/user-attachments/assets/00487b53-e6d8-4fdb-a5a4-0fdf75889de2" />
 
 
-<img width="559" height="471" alt="Screenshot 2025-10-11 195714" src="https://github.com/user-attachments/assets/c0809bf8-bcbf-4bdf-8645-8263535efe39" />
+![WhatsApp Image 2025-10-19 at 7 23 36 PM](https://github.com/user-attachments/assets/b313ad4f-1b54-4a67-b340-4a99d18830cf)
 
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
@@ -27,22 +27,23 @@ I. Connect the multimeter at the output of kit..
 OBSERVATION TABLE
 
 TABULATION:
+![WhatsApp Image 2025-10-19 at 7 22 20 PM](https://github.com/user-attachments/assets/753d26f2-2f73-4b91-af75-7b50bb570415)
 
-<img width="539" height="288" alt="Screenshot 2025-10-11 195721" src="https://github.com/user-attachments/assets/85db794f-99e5-4729-aa00-aefbbba50a13" />
 
 CALCULATION
+![WhatsApp Image 2025-10-19 at 7 22 20 PM (3)](https://github.com/user-attachments/assets/a9550bf6-f555-4c84-82e8-da81f52910a0)
+![WhatsApp Image 2025-10-19 at 7 22 20 PM (4)](https://github.com/user-attachments/assets/ce18a9e4-a657-4290-aa28-b49b7479a16f)
 
-<img width="318" height="274" alt="Screenshot 2025-10-11 195750" src="https://github.com/user-attachments/assets/5e5fab00-c45c-432e-8ded-1267630397b2" />
 
 MODEL GRAPH
 
 POSITIVE DISPLACEMENT
+![WhatsApp Image 2025-10-19 at 7 22 20 PM (1)](https://github.com/user-attachments/assets/68ecec5e-d252-4188-b747-2fcd9136c973)
 
-<img width="359" height="317" alt="Screenshot 2025-10-11 195757" src="https://github.com/user-attachments/assets/1d18a068-e808-4336-ba80-6a52b57cacfb" />
 
 NEGATIVE DISPLACEMENT
 
-<img width="402" height="372" alt="Screenshot 2025-10-11 195805" src="https://github.com/user-attachments/assets/cd1ec8e4-8527-4218-9dc1-f061ffb8abde" />
+![WhatsApp Image 2025-10-19 at 7 22 20 PM (2)](https://github.com/user-attachments/assets/3e7a4227-123b-464e-b279-1f1639177f57)
 
 
 
