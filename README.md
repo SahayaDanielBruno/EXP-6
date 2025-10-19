@@ -31,6 +31,9 @@ TABULATION:
 
 
 CALCULATION
+
+
+
 ![WhatsApp Image 2025-10-19 at 7 22 20 PM (3)](https://github.com/user-attachments/assets/a9550bf6-f555-4c84-82e8-da81f52910a0)
 ![WhatsApp Image 2025-10-19 at 7 22 20 PM (4)](https://github.com/user-attachments/assets/ce18a9e4-a657-4290-aa28-b49b7479a16f)
 
